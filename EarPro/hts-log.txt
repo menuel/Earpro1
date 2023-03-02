@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 14:49:27 at https://get-tvidler.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://get-tvidler.com/ -O1 "C:\pro1\Test\EarPro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:49:30	Warning: 	Link https://get-tvidler.com/ not scanned (follow robots meta tag)
+14:49:47	Error: 	"Not Found" (404) at link https://get-tvidler.com/theme/images/ico-phone.svg (from https://get-tvidler.com/css/theme.rtl.css?id=6fdd6f3bdd0e889fc2db425e311d21bc)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 87 links scanned, 85 files written (6593355 bytes overall) [5739107 bytes received at 286955 bytes/sec], 1543993 bytes transferred using HTTP compression in 35 files, ratio 39%, 43.5 requests per connection
+(1 errors, 1 warnings, 0 messages)
